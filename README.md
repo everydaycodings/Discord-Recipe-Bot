@@ -1,1 +1,2 @@
-# Discord-Recipe-Bot
+# Recipe-Bot
+Recipe Discord Bot with Python
